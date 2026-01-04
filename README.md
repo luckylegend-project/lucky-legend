@@ -65,3 +65,11 @@ Full roadmap details are available on the official website.
 Lucky Legend is a community-driven crypto project.  
 Nothing in this repository constitutes financial advice.  
 Always do your own research.
+---
+
+## Documentation
+
+- 📄 [Whitepaper](./WHITEPAPER.md)
+- 🗺️ [Roadmap](./ROADMAP.md)
+
+All documents are publicly available for transparency and verification.
