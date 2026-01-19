@@ -1,6 +1,6 @@
 # Lucky Legend (LLD)
 
-Lucky Legend (LLD) is a community-driven Solana-based token focused on transparency, simplicity, and long-term consistency.
+Lucky Legend (LLD) is a community-driven, Solana-based token focused on transparency, simplicity, and long-term consistency.
 
 This repository serves as the official public documentation hub for the Lucky Legend project.
 
@@ -14,7 +14,8 @@ This repository serves as the official public documentation hub for the Lucky Le
 - **Launch Platform:** Pump.fun  
 - **Project Type:** Community & culture-driven token  
 
-Lucky Legend is built with a minimalistic and calm approach. There are no hidden mechanics, no complex tokenomics, and no artificial hype structures.
+Lucky Legend is built with a minimalistic and calm approach.  
+There are no hidden mechanics, no complex tokenomics, and no artificial hype structures.
 
 ---
 
@@ -42,10 +43,10 @@ Burns are executed for transparency and long-term supply integrity.
 
 The Lucky Legend roadmap focuses on stability, visibility, and organic growth.
 
-- Phase 1: Launch & initial liquidity  
-- Phase 2: Transparency setup (Website, GitHub, Solscan)  
-- Phase 3: Community presence & listings  
-- Phase 4: Ongoing refinement and consistency  
+- **Phase 1:** Launch & initial liquidity  
+- **Phase 2:** Transparency setup (Website, GitHub, Solscan)  
+- **Phase 3:** Community presence & listings  
+- **Phase 4:** Ongoing refinement and consistency  
 
 Full roadmap details are available on the official website.
 
@@ -55,21 +56,26 @@ Full roadmap details are available on the official website.
 
 - **Website:** https://luckylegend.crd.co  
 - **X (Twitter):** https://x.com/luckylegend77  
-- **DEX Screener:**https://dexscreener.com/solana/ghk8qukdv9abmj13nhxpf6pkbm4uiehuyetrcsnd35d4)
-- **Solscan:** https://solscan.io/token/64MWN63e19qaw2HEecX6btUJSSbWwZgrw74bjFVVpump 
+- **DEX Screener:** https://dexscreener.com/solana/ghk8qukdv9abmj13nhxpf6pkbm4uiehuyetrcsnd35d4  
+- **Solscan:** https://solscan.io/token/64MWN63e19qaw2HEecX6btUJSSbWwZgrw74bjFVVpump  
 
 ---
 
 ## ⚠️ Disclaimer
 
-Lucky Legend is a community-driven crypto project.  
+Lucky Legend (LLD) is a community-driven, symbolic crypto project.
+
 Nothing in this repository constitutes financial advice.  
 Always do your own research.
+
+**Not affiliated with Lucky Legends Casino or any casino, gambling, or betting platform.**  
+**Lucky Legend is a standalone project. Official links are shared only via https://luckylegend.crd.co**
+
 ---
 
-## Documentation
+## 📄 Documentation
 
-- 📄 [Whitepaper](./WHITEPAPER.md)
-- 🗺️ [Roadmap](./ROADMAP.md)
+- 📘 [Whitepaper](./WHITEPAPER.md)  
+- 🗺️ [Roadmap](./ROADMAP.md)  
 
 All documents are publicly available for transparency and verification.
