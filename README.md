@@ -69,7 +69,7 @@ Nothing in this repository constitutes financial advice.
 Always do your own research.
 
 **Not affiliated with Lucky Legends Casino or any casino, gambling, or betting platform.**  
-**Lucky Legend is a standalone project. Official links are shared only via https://luckylegend.crd.co**
+**Lucky Legend is a standalone project. Official links are shared only via https://luckylegend.io**
 
 ---
 
