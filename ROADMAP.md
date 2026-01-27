@@ -1,4 +1,4 @@
-# Lucky Legend (LLD) – Roadmap
+# Lucky Legend (LLD) Roadmap
 
 The Lucky Legend roadmap is designed to prioritize stability, transparency, and sustainable growth.  
 Progress is measured by quality and consistency rather than speed.
