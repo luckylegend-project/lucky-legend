@@ -1,4 +1,4 @@
-# Lucky Legend (LLD) – Whitepaper
+# Lucky Legend (LLD)  Whitepaper
 
 ---
 
