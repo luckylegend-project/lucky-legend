@@ -54,7 +54,7 @@ Full roadmap details are available on the official website.
 
 ## 🌐 Official Links
 
-- **Website:** https://luckylegend.crd.co  
+- **Website:** https://luckylegend.io  
 - **X (Twitter):** https://x.com/luckylegend77  
 - **DEX Screener:** https://dexscreener.com/solana/ghk8qukdv9abmj13nhxpf6pkbm4uiehuyetrcsnd35d4  
 - **Solscan:** https://solscan.io/token/64MWN63e19qaw2HEecX6btUJSSbWwZgrw74bjFVVpump  
