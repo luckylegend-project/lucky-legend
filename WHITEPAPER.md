@@ -124,7 +124,7 @@ Lucky Legend (LLD) is a symbolic, community-driven project on Solana.
 The project is **not affiliated** with Lucky Legends Casino or any casino, gambling, or betting platform.
 
 Lucky Legend is a standalone project.  
-Official project links are shared only via https://luckylegend.crd.co
+Official project links are shared only via https://luckylegend.io
 
 ---
 
