@@ -52,4 +52,4 @@ Progress is measured by quality and consistency rather than speed.
 - Consistency over speed  
 - Community over speculation  
 
-Lucky Legend is built to last — quietly, steadily, and honestly.
+Lucky Legend is built to last. Quietly, steadily, and honestly.
