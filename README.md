@@ -1,8 +1,13 @@
-# Lucky Legend (LLD)
+Lucky Legend (LLD) is a quiet digital concept.
 
-Lucky Legend (LLD) is a community-driven, Solana-based token focused on transparency, simplicity, and long-term consistency.
+It was not created to compete, scale aggressively, or promise utility.
 
-This repository serves as the official public documentation hub for the Lucky Legend project.
+Instead, it exists as a calm and transparent on-chain presence.
+
+The focus is not speed, but consistency.  
+Not attention, but meaning.
+
+This repository reflects the structure and philosophy behind the project.
 
 ---
 
@@ -14,19 +19,19 @@ This repository serves as the official public documentation hub for the Lucky Le
 - **Launch Platform:** Pump.fun  
 - **Project Type:** Community & culture-driven token  
 
-Lucky Legend is built with a minimalistic and calm approach.  
+Lucky Legend is built with a minimalistic and intentional approach.  
 There are no hidden mechanics, no complex tokenomics, and no artificial hype structures.
 
 ---
 
 ## 🔥 Token Burn Transparency
 
-Lucky Legend has implemented token burns using the Sol Incinerator tool on Solana.
+Lucky Legend uses on-chain token burns to maintain long-term supply integrity.
 
-All burns are verifiable on-chain and permanently remove tokens from circulation.  
-Due to the nature of Sol Incinerator burns, multiple burn transactions may originate from different temporary wallets.
+Burns are executed via tools such as Sol Incinerator and are fully verifiable on-chain.  
+Due to the mechanism, burn transactions may originate from intermediary wallets.
 
-Burns are executed for transparency and long-term supply integrity.
+All burned tokens are permanently removed from circulation.
 
 ---
 
@@ -41,12 +46,13 @@ Burns are executed for transparency and long-term supply integrity.
 
 ## 🗺️ Roadmap
 
-The Lucky Legend roadmap focuses on stability, visibility, and organic growth.
+The Lucky Legend roadmap focuses on stability, clarity, and organic growth.
 
-- **Phase 1:** Launch & initial liquidity  
-- **Phase 2:** Transparency setup (Website, GitHub, Solscan)  
-- **Phase 3:** Community presence & listings  
-- **Phase 4:** Ongoing refinement and consistency  
+- **Phase 1:** Foundation & fair launch  
+- **Phase 2:** Transparency & verification (Website, GitHub, Solscan)  
+- **Phase 3:** Community presence & natural discovery  
+- **Phase 4:** Long-term consistency and refinement  
+- **Phase 5:** Ongoing presence without forced expansion  
 
 Full roadmap details are available on the official website.
 
@@ -63,13 +69,17 @@ Full roadmap details are available on the official website.
 
 ## ⚠️ Disclaimer
 
-Lucky Legend (LLD) is a community-driven, symbolic crypto project.
+Lucky Legend (LLD) is a symbolic, community-driven digital project built on Solana.
 
-Nothing in this repository constitutes financial advice.  
+It does not represent a financial instrument, investment vehicle, or promise of returns.
+
+This repository is provided for transparency and informational purposes only.  
 Always do your own research.
 
-**Not affiliated with Lucky Legends Casino or any casino, gambling, or betting platform.**  
-**Lucky Legend is a standalone project. Official links are shared only via https://luckylegend.io**
+Lucky Legend operates independently and is not affiliated with any casino, gambling, or betting platform, including "Lucky Legends Casino".
+
+All official information is shared exclusively through:  
+https://luckylegend.io
 
 ---
 
