@@ -1,15 +1,15 @@
 # Lucky Legend (LLD)
 
-Lucky Legend is a minimal and calm digital concept built on the Solana blockchain.
+Lucky Legend is a minimal and transparent digital project on the Solana blockchain.
 
 It was not created to compete, scale aggressively, or promise utility.
 
-Instead, it exists as a transparent and consistent on-chain presence.
+Instead, it exists as a calm and consistent on-chain presence.
 
 The focus is not speed, but continuity.  
 Not attention, but meaning.
 
-This repository documents the structure, principles, and public information behind the project.
+This repository documents the structure and public principles of the project.
 
 ---
 
@@ -22,7 +22,7 @@ This repository documents the structure, principles, and public information behi
 - **Launch Platform:** Pump.fun  
 - **Project Type:** Cultural and community-driven token  
 
-Lucky Legend follows a minimal and transparent approach.
+Lucky Legend follows a minimal and intentional approach.
 
 There are no hidden mechanisms.  
 No complex tokenomics.  
@@ -36,11 +36,11 @@ All core information is publicly available and verifiable.
 
 Lucky Legend maintains transparency through on-chain verification.
 
-- Mint authority: revoked  
-- Freeze authority: none  
-- Supply adjustments: visible via on-chain burns  
+- **Mint Authority:** Revoked  
+- **Freeze Authority:** None  
+- **Supply Adjustments:** Visible via on-chain burns  
 
-Burns are executed using public tools (e.g. Sol Incinerator) and are fully verifiable via blockchain explorers.
+Burns are executed using public Solana tools and are fully verifiable on-chain.
 
 All burned tokens are permanently removed from circulation.
 
@@ -59,7 +59,7 @@ All token data, holders, and transactions can be verified via Solana explorers.
 
 ## 🗺️ Roadmap
 
-The Lucky Legend roadmap focuses on stability, transparency, and long-term consistency.
+The Lucky Legend roadmap focuses on clarity, stability, and long-term consistency.
 
 - **Phase 1:** Foundation and fair launch  
 - **Phase 2:** Transparency (Website, GitHub, Solscan)  
@@ -67,7 +67,7 @@ The Lucky Legend roadmap focuses on stability, transparency, and long-term consi
 - **Phase 4:** Stability and refinement  
 - **Phase 5:** Ongoing presence  
 
-The roadmap is intentionally simple and does not rely on aggressive expansion strategies.
+The roadmap is intentionally minimal and does not rely on aggressive expansion.
 
 ---
 
@@ -90,7 +90,7 @@ This repository is provided for informational and transparency purposes only.
 
 Always do your own research before interacting with any blockchain-based asset.
 
-Lucky Legend operates independently and is not affiliated with any third-party platforms, including gambling or casino-related services.
+Lucky Legend operates independently and is not affiliated with any third-party platforms.
 
 All official information is published exclusively via:  
 https://luckylegend.io
