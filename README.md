@@ -20,7 +20,7 @@ This repository documents the structure and public principles of the project.
 - **Blockchain:** Solana  
 - **Token Standard:** SPL  
 - **Launch Platform:** Pump.fun  
-- **Project Type:** Cultural and community-driven token  
+- **Project Type:** Cultural and symbolic digital token  
 
 Lucky Legend follows a minimal and intentional approach.
 
@@ -51,9 +51,6 @@ All burned tokens are permanently removed from circulation.
 A portion of the total supply is held by the creator wallet.
 
 - **Creator Wallet:** ~2% of total supply  
-- **Liquidity Pool (Pump.fun AMM):** ~24% of total supply  
-
-The liquidity pool is not controlled by the creator and is part of the public trading infrastructure.
 
 All balances and transactions are fully verifiable on-chain via Solana explorers.
 
