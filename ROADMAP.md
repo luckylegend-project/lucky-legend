@@ -1,63 +1,63 @@
-# Lucky Legend (LLD) Roadmap
+# Lucky Legend Roadmap
 
-The Lucky Legend roadmap is designed to prioritize stability, transparency, and sustainable growth.  
-Progress is measured by quality and consistency rather than speed.
+The Lucky Legend roadmap is intentionally minimal.
+
+It does not aim for rapid expansion,  
+but for clarity, stability, and long-term presence.
+
+Progress is measured through consistency,  
+not speed.
 
 ---
 
-## Phase 1 – Foundation & Launch (Completed)
+## Phase 1 — Foundation
 
 - Token creation on Solana  
 - Fair launch via Pump.fun  
-- Initial liquidity formation  
-- Website launch with core project information  
-- Public README and documentation setup  
-- Initial community presence on X (Twitter)  
+- Initial distribution  
 
 ---
 
-## Phase 2 – Transparency & Verification (In Progress)
+## Phase 2 — Transparency
 
-- Public Whitepaper release  
-- Public roadmap publication  
-- GitHub repository for documentation and transparency  
-- Solscan profile submission and verification  
-- DexScreener and ecosystem visibility  
-- Contract address and token data consistency checks  
+- Website launch  
+- GitHub documentation  
+- Public whitepaper  
+- On-chain verification (Solscan, DEX visibility)  
 
 ---
 
-## Phase 3 – Community Presence & Stability
+## Phase 3 — Presence
 
-- Organic community growth  
-- Clear and calm communication style  
-- Long-term holder-oriented mindset  
-- Continuous transparency and consistency  
-- No artificial hype or forced marketing  
+- Organic discovery  
+- Consistent communication  
+- Calm positioning  
 
 ---
 
-## Phase 4 – Long-Term Consistency
+## Phase 4 — Stability
 
-- Maintain project stability and identity  
-- Adapt carefully based on real community feedback  
-- Preserve the original philosophy of simplicity and trust  
-- Long-term presence without rushed expansion  
-
----
-
-## Phase 5 – Continuous Presence
-
-- The project remains active without pressure to expand  
-- No forced development timelines or artificial milestones  
-- Focus on being accessible, transparent, and consistent over time  
+- Ongoing refinement  
+- Structural clarity  
+- Continued transparency  
 
 ---
 
-### Guiding Principles
+## Phase 5 — Continuity
+
+- Long-term presence  
+- No forced expansion  
+- No artificial growth strategies  
+
+---
+
+## Principles
 
 - Transparency over promises  
 - Consistency over speed  
-- Community over speculation  
+- Presence over pressure  
 
-Lucky Legend is built to last. Quietly, steadily, and honestly.
+---
+
+Lucky Legend is designed to exist over time,  
+not to accelerate through phases.
