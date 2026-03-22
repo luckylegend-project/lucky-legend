@@ -46,6 +46,19 @@ All burned tokens are permanently removed from circulation.
 
 ---
 
+## 🔍 Transparency
+
+A portion of the total supply is held by the creator wallet.
+
+- **Creator Wallet:** ~2% of total supply  
+- **Liquidity Pool (Pump.fun AMM):** ~24% of total supply  
+
+The liquidity pool is not controlled by the creator and is part of the public trading infrastructure.
+
+All balances and transactions are fully verifiable on-chain via Solana explorers.
+
+---
+
 ## 📊 Token Information
 
 - **Total Supply:** Fixed  
