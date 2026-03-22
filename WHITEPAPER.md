@@ -1,27 +1,27 @@
-# Lucky Legend (LLD)  Whitepaper
+# Lucky Legend (LLD) Whitepaper
 
 ---
 
 ## 1. Introduction
 
-Lucky Legend (LLD) is a community-driven, Solana-based token designed with a clear focus on transparency, simplicity, and long-term consistency.
+Lucky Legend (LLD) is a community-driven token built on the Solana blockchain, designed with a focus on transparency, simplicity, and long-term consistency.
 
-The project intentionally avoids unnecessary complexity, artificial hype, and short-term mechanics.  
-Instead, it prioritizes clarity, trust, and organic development.
+The project intentionally avoids unnecessary complexity, artificial hype, and short-term mechanisms.  
+Instead, it emphasizes clarity, trust, and a stable on-chain presence.
 
-Lucky Legend is not positioned as a speculative experiment, but as a calm and structured digital asset with a transparent public presence.
+Lucky Legend is not structured as a high-growth or utility-driven system, but as a calm and transparent digital asset.
 
 ---
 
 ## 2. Vision & Philosophy
 
-The core philosophy of Lucky Legend is built on three principles:
+The core philosophy of Lucky Legend is based on three principles:
 
-- **Transparency** – All relevant information is publicly accessible.
-- **Simplicity** – No hidden mechanics, no complex token structures.
-- **Consistency** – Long-term presence over short-term attention.
+- **Transparency** – All relevant information is publicly accessible and verifiable.  
+- **Simplicity** – No hidden mechanics or complex token structures.  
+- **Consistency** – Long-term presence over short-term attention.  
 
-The project aims to grow naturally through visibility, documentation, and steady community interaction.
+The project develops through documentation, visibility, and steady community interaction rather than rapid expansion.
 
 ---
 
@@ -41,12 +41,12 @@ It does not include staking, rebasing, yield generation, or automated incentive 
 ## 4. Supply & Token Mechanics
 
 - **Maximum Supply:** Fixed  
-- **Circulating Supply:** Reduced through manual token burns  
+- **Circulating Supply:** Reduced through permanent token burns  
 - **Mint Authority:** Disabled  
 - **Freeze Authority:** Disabled  
 
-A portion of the original supply has been permanently removed from circulation using Solana-native burn mechanisms.  
-All supply changes are transparent and verifiable on-chain.
+A portion of the original supply has been permanently removed from circulation using on-chain burn mechanisms.  
+All supply changes are transparent and verifiable via blockchain explorers.
 
 Lucky Legend does **not** include:
 - Transaction taxes  
@@ -57,14 +57,14 @@ Lucky Legend does **not** include:
 
 ## 5. Token Burn Transparency
 
-Token burns were executed using established Solana tools and are publicly verifiable through blockchain explorers.
+Token burns are executed using established Solana tools and are fully verifiable on-chain.
 
-Burn characteristics:
+Key characteristics:
 - Permanent removal from circulation  
 - No recovery possible  
 - No replacement minting  
 
-This approach reinforces long-term supply clarity and transparency.
+This approach supports long-term supply clarity and transparency.
 
 ---
 
@@ -74,9 +74,9 @@ Lucky Legend is maintained as a transparent, documentation-focused project.
 
 Public resources include:
 - Official website  
-- GitHub documentation  
+- GitHub repository  
 - Solana blockchain explorers  
-- Public social communication channels  
+- Public communication channels  
 
 There is no private allocation, venture capital involvement, or hidden ownership structure.
 
@@ -84,35 +84,35 @@ There is no private allocation, venture capital involvement, or hidden ownership
 
 ## 7. Roadmap Philosophy
 
-Lucky Legend follows a flexible roadmap approach focused on stability rather than fixed deadlines.
+Lucky Legend follows a flexible roadmap focused on stability rather than fixed deadlines.
 
-Core objectives include:
+Core objectives:
 - Documentation completeness  
 - Platform verification  
-- Community clarity  
+- Consistent public presence  
 - Long-term maintenance  
 
-Specific dates are intentionally avoided to maintain realism and credibility.
+Specific timelines are intentionally avoided to maintain realism and credibility.
 
 ---
 
 ## 8. Community & Communication
 
-Lucky Legend maintains a calm and respectful communication style.
+Lucky Legend maintains a calm and consistent communication style.
 
 - No aggressive marketing  
 - No artificial engagement tactics  
 - No misleading claims  
 
-All official communication is publicly accessible and verifiable.
+All official communication is public, minimal, and verifiable.
 
 ---
 
 ## 9. Risk Disclaimer
 
-Lucky Legend (LLD) is a digital asset and carries inherent risk.
+Lucky Legend (LLD) is a digital asset and involves inherent risk.
 
-This project does not provide financial advice, profit guarantees, or investment promises.  
+This project does not provide financial advice, guarantees, or investment promises.  
 Participants are encouraged to conduct independent research before interacting with the token.
 
 ---
@@ -121,18 +121,19 @@ Participants are encouraged to conduct independent research before interacting w
 
 Lucky Legend (LLD) is a symbolic, community-driven project on Solana.
 
-The project is **not affiliated** with Lucky Legends Casino or any casino, gambling, or betting platform.
+It is **not affiliated** with Lucky Legends Casino or any casino, gambling, or betting platform.
 
-Lucky Legend is a standalone project.  
-Official project links are shared only via https://luckylegend.io
+Lucky Legend operates as an independent project.  
+Official information is shared exclusively via:
+https://luckylegend.io
 
 ---
 
 ## 11. Conclusion
 
-Lucky Legend represents a transparent, minimalistic, and long-term oriented Solana token project.
+Lucky Legend represents a minimalistic, transparent, and long-term oriented digital asset on Solana.
 
-The focus is not rapid growth, but sustainable presence, clear documentation, and long-term community trust.
+The focus is not rapid expansion, but sustainable presence, clear documentation, and consistent public visibility.
 
 ---
 
