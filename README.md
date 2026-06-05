@@ -1,31 +1,31 @@
 # Lucky Legend (LLD)
 
-Lucky Legend is a minimal and transparent digital project on the Solana blockchain.
+Lucky Legend is a quiet digital presence built on the Solana blockchain.
 
 It was not created to compete, scale aggressively, or promise utility.
 
-Instead, it exists as a calm and consistent on-chain presence.
+Instead, it exists as a long term project focused on continuity, transparency, and consistency.
 
-The focus is not speed, but continuity.  
+The focus is not speed, but presence.
 Not attention, but meaning.
 
-This repository documents the structure and public principles of the project.
+This repository documents the public structure, principles, and transparency of the project.
 
 ---
 
 ## 🔹 Project Overview
 
-- **Name:** Lucky Legend  
-- **Symbol:** LLD  
-- **Blockchain:** Solana  
-- **Token Standard:** SPL  
-- **Launch Platform:** Pump.fun  
-- **Project Type:** Cultural and symbolic digital token  
+* **Name:** Lucky Legend
+* **Symbol:** LLD
+* **Blockchain:** Solana
+* **Token Standard:** SPL
+* **Launch Platform:** Pump.fun
+* **Project Type:** Cultural and symbolic digital project
 
 Lucky Legend follows a minimal and intentional approach.
 
-There are no hidden mechanisms.  
-No complex tokenomics.  
+There are no hidden mechanisms.
+No complex tokenomics.
 No artificial incentives.
 
 All core information is publicly available and verifiable.
@@ -36,11 +36,11 @@ All core information is publicly available and verifiable.
 
 Lucky Legend maintains transparency through on-chain verification.
 
-- **Mint Authority:** Revoked  
-- **Freeze Authority:** None  
-- **Supply Adjustments:** Visible via on-chain burns  
+* **Mint Authority:** Revoked
+* **Freeze Authority:** None
+* **Supply Adjustments:** Visible through on-chain burns
 
-Burns are executed using public Solana tools and are fully verifiable on-chain.
+Burns are executed using public Solana tools and remain fully verifiable on-chain.
 
 All burned tokens are permanently removed from circulation.
 
@@ -50,66 +50,71 @@ All burned tokens are permanently removed from circulation.
 
 A portion of the total supply is held by the creator wallet.
 
-- **Creator Wallet:** ~2% of total supply  
+Liquidity has been publicly provided by the project and remains fully visible on-chain.
 
-All balances and transactions are fully verifiable on-chain via Solana explorers.
+All balances, holdings, liquidity positions, and transactions can be independently verified through Solana explorers and public liquidity platforms.
+
+The project operates with a commitment to transparency and long term consistency.
 
 ---
 
 ## 📊 Token Information
 
-- **Total Supply:** Fixed  
-- **Circulating Supply:** Adjusted through burns  
-- **Contract Address:**  
-  `64MWN63e19qaw2HEecX6btUJSSbWwZgrw74bjFVVpump`
+* **Total Supply:** Fixed
+* **Circulating Supply:** Adjusted through burns
+* **Contract Address:**
 
-All token data, holders, and transactions can be verified via Solana explorers.
+`64MWN63e19qaw2HEecX6btUJSSbWwZgrw74bjFVVpump`
+
+All token data, holders, and transactions can be independently verified on-chain.
 
 ---
 
 ## 🗺️ Roadmap
 
-The Lucky Legend roadmap focuses on clarity, stability, and long-term consistency.
+The Lucky Legend roadmap focuses on continuity, transparency, and long term presence.
 
-- **Phase 1:** Foundation and fair launch  
-- **Phase 2:** Transparency (Website, GitHub, Solscan)  
-- **Phase 3:** Organic presence and discovery  
-- **Phase 4:** Stability and refinement  
-- **Phase 5:** Ongoing presence  
+* **Phase 1:** Foundation and fair launch
+* **Phase 2:** Transparency and public verification
+* **Phase 3:** Organic discovery and presence
+* **Phase 4:** Ongoing refinement
+* **Phase 5:** Long term continuity
 
-The roadmap is intentionally minimal and does not rely on aggressive expansion.
-
----
-
-## 🌐 Official Links
-
-- **Website:** https://luckylegend.io  
-- **X (Twitter):** https://x.com/luckylegend77  
-- **DEX Screener:** https://dexscreener.com/solana/h2zmzdvwp1gwh9xf4lrm1bu4xg96sgkwjff5ntiusdhf  
-- **Solscan:** https://solscan.io/token/64MWN63e19qaw2HEecX6btUJSSbWwZgrw74bjFVVpump  
-
----
-
-## ⚠️ Disclaimer
-
-Lucky Legend (LLD) is a digital project on the Solana blockchain.
-
-It is not a financial instrument, investment product, or security, and does not provide any guarantees of returns.
-
-This repository is provided for informational and transparency purposes only.
-
-Always do your own research before interacting with any blockchain-based asset.
-
-Lucky Legend operates independently and is not affiliated with any third-party platforms.
-
-All official information is published exclusively via:  
-https://luckylegend.io
+The project is intentionally minimal and develops at its own pace.
 
 ---
 
 ## 📄 Documentation
 
-- 📘 Whitepaper: ./WHITEPAPER.md  
-- 🗺️ Roadmap: ./ROADMAP.md  
+* 📘 Whitepaper: ./WHITEPAPER.md
+* 🗺️ Roadmap: ./ROADMAP.md
 
 All documentation is publicly accessible.
+
+---
+
+## 🌐 Official Links
+
+* Website: https://luckylegend.io
+* X (Twitter): https://x.com/luckylegend77
+* DEX Screener: https://dexscreener.com/solana/h2zmzdvwp1gwh9xf4lrm1bu4xg96sgkwjff5ntiusdhf
+* Orca Pool: https://dexscreener.com/solana/5gkqyrswzxoa4auotcheokararkaotky3xzkc647g4j5
+* Solscan: https://solscan.io/token/64MWN63e19qaw2HEecX6btUJSSbWwZgrw74bjFVVpump
+
+---
+
+## ⚠️ Disclaimer
+
+Lucky Legend (LLD) is an independent digital project on the Solana blockchain.
+
+It is not a financial instrument, investment product, or security and does not provide guarantees of returns, profits, or future performance.
+
+This repository is provided for informational and transparency purposes only.
+
+Always conduct your own research before interacting with any blockchain based asset.
+
+Lucky Legend operates independently and is not affiliated with any third party platforms.
+
+All official project information is published exclusively through:
+
+https://luckylegend.io
