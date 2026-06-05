@@ -4,132 +4,181 @@
 
 ## 1. Introduction
 
-Lucky Legend is a minimal and transparent digital project on the Solana blockchain.
+Lucky Legend is a quiet digital presence built on the Solana blockchain.
 
-It is not designed to compete, scale aggressively, or provide utility.
+It was not created to compete, scale aggressively, or promise utility.
 
-Instead, it exists as a calm and consistent on-chain presence.
+Instead, it exists as a long term project focused on continuity, transparency, and consistency.
 
-The project focuses on clarity, continuity, and long-term existence.
+The project is built around a simple idea:
+
+Some things become meaningful over time.
+
+This document outlines the principles, structure, and public information of the project.
 
 ---
 
 ## 2. Vision
 
-Lucky Legend follows a simple idea:
+Lucky Legend follows a simple philosophy:
 
-What becomes meaningful over time  
-without being forced.
+Not everything valuable appears immediately.
 
-The project does not rely on hype, incentives, or rapid expansion.
+Some things are discovered gradually.
+Some things remain.
 
-It is built on:
+The project does not rely on hype, urgency, or artificial growth.
 
-- transparency  
-- simplicity  
-- consistency  
+Instead, it focuses on:
+
+* transparency
+* simplicity
+* continuity
+* long term presence
+
+The goal is not rapid expansion, but lasting consistency.
 
 ---
 
-## 3. Token Overview
+## 3. Project Identity
 
-- **Name:** Lucky Legend  
-- **Symbol:** LLD  
-- **Blockchain:** Solana  
-- **Token Standard:** SPL  
-- **Launch Platform:** Pump.fun  
+Lucky Legend is a cultural and symbolic digital project.
+
+It is designed as a calm and independent presence within the digital landscape.
+
+The project values authenticity over attention and continuity over visibility.
+
+Its public communication often focuses on nature, reflection, time, and the small moments that people tend to overlook.
+
+---
+
+## 4. Token Overview
+
+* **Name:** Lucky Legend
+* **Symbol:** LLD
+* **Blockchain:** Solana
+* **Token Standard:** SPL
+* **Launch Platform:** Pump.fun
 
 Lucky Legend operates as a standard Solana token.
 
-There are no additional mechanisms such as staking, rewards, or yield systems.
+There are no staking systems, reward mechanisms, yield programs, or hidden token structures.
 
 ---
 
-## 4. Token Structure
+## 5. Token Structure
 
-- **Total Supply:** Fixed  
-- **Circulating Supply:** Adjusted through burns  
-- **Mint Authority:** Revoked  
-- **Freeze Authority:** None  
+* **Total Supply:** Fixed
+* **Circulating Supply:** Adjusted through burns
+* **Mint Authority:** Revoked
+* **Freeze Authority:** None
 
-There are no hidden mechanics or complex token models.
+The project maintains a simple token structure without complex mechanics.
+
+All relevant information can be independently verified on-chain.
 
 ---
 
-## 5. Burn Mechanism
+## 6. Transparency
 
-Supply is reduced over time through on-chain burns.
+Transparency is a core principle of Lucky Legend.
 
-Burns are executed using public Solana tools and are fully verifiable on-chain.
+A portion of the supply is held by the creator wallet.
+
+Liquidity has been publicly provided and remains visible on-chain.
+
+Token balances, transactions, liquidity positions, and burns can be independently verified through public Solana tools and explorers.
+
+---
+
+## 7. Burn Mechanism
+
+Supply may be reduced over time through voluntary on-chain burns.
+
+Burns are executed using public Solana infrastructure and remain permanently visible on-chain.
 
 All burned tokens are permanently removed from circulation.
 
 ---
 
-## 6. Project Structure
+## 8. Project Structure
 
-Lucky Legend is intentionally simple.
+Lucky Legend intentionally remains simple.
 
-It consists of:
+The project consists of:
 
-- a token  
-- a website  
-- public documentation  
-- a communication channel  
+* the LLD token
+* the official website
+* public documentation
+* public communication channels
 
-There are no additional layers or hidden components.
-
----
-
-## 7. Roadmap Philosophy
-
-The roadmap follows a non-aggressive approach.
-
-It does not aim for rapid growth,  
-but for stability and continuity.
-
-Progress is measured through consistency over time.
+There are no hidden layers, private utility systems, or undisclosed project components.
 
 ---
 
-## 8. Community
+## 9. Roadmap Philosophy
 
-Lucky Legend maintains a calm and minimal communication style.
+The roadmap follows a long term and non aggressive approach.
 
-- No aggressive marketing  
-- No artificial engagement  
-- No misleading claims  
+Progress is measured through continuity rather than speed.
 
-Participation is open, but not incentivized.
+The project develops gradually and intentionally.
 
----
-
-## 9. Disclaimer
-
-Lucky Legend (LLD) is not a financial instrument, investment product, or security.
-
-It does not provide guarantees or promises of returns.
-
-All information is provided for transparency purposes only.
-
-Users should conduct their own research before interacting with blockchain-based assets.
+The objective is not constant expansion, but sustainable presence over time.
 
 ---
 
-## 10. Independence
+## 10. Community
 
-Lucky Legend operates as an independent project.
+Lucky Legend maintains a calm and respectful communication style.
 
-It is not affiliated with any third-party platforms, including casino, gambling, or betting services.
+The project avoids:
 
-All official information is published exclusively via:  
+* aggressive marketing
+* artificial engagement
+* misleading claims
+* pressure based participation
+
+Participation remains entirely voluntary.
+
+The project welcomes individuals who appreciate transparency, patience, and long term thinking.
+
+---
+
+## 11. Disclaimer
+
+Lucky Legend (LLD) is an independent digital project operating on the Solana blockchain.
+
+It is not a financial instrument, investment product, or security.
+
+No guarantees, promises of returns, or financial expectations are provided.
+
+This document exists for informational and transparency purposes only.
+
+Individuals should conduct their own research before interacting with blockchain based assets.
+
+---
+
+## 12. Independence
+
+Lucky Legend operates independently.
+
+The project is not affiliated with any third party platform, organization, casino, gambling service, or betting provider.
+
+All official project information is published exclusively through:
+
 https://luckylegend.io
 
 ---
 
-## 11. Closing
+## 13. Closing
 
-Lucky Legend is designed to exist over time.
+Lucky Legend was never designed to become the loudest presence.
 
-Not through expansion,  
-but through consistency.
+It was designed to remain.
+
+Over time.
+
+With consistency.
+
+And without being forced.
