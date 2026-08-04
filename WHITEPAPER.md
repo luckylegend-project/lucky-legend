@@ -165,7 +165,7 @@ Lucky Legend operates independently.
 
 The project is not affiliated with any third party platform, organization, casino, gambling service, or betting provider.
 
-All official project information is published exclusively through:
+Verified project information and official links are published through:
 
 https://luckylegend.io
 
