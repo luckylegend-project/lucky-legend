@@ -97,6 +97,7 @@ All documentation is publicly accessible.
 
 * Website: https://luckylegend.io
 * X (Twitter): https://x.com/luckylegend77
+* Telegram: https://t.me/luckylegend777
 * DEX Screener: https://dexscreener.com/solana/h2zmzdvwp1gwh9xf4lrm1bu4xg96sgkwjff5ntiusdhf
 * Orca Pool: https://dexscreener.com/solana/5gkqyrswzxoa4auotcheokararkaotky3xzkc647g4j5
 * Solscan: https://solscan.io/token/64MWN63e19qaw2HEecX6btUJSSbWwZgrw74bjFVVpump
@@ -115,6 +116,6 @@ Always conduct your own research before interacting with any blockchain based as
 
 Lucky Legend operates independently and is not affiliated with any third party platforms.
 
-All official project information is published exclusively through:
+Verified project information and official links are published through:
 
 https://luckylegend.io
