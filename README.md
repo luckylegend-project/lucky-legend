@@ -115,5 +115,5 @@ All documentation is publicly accessible.
 * YouTube: https://www.youtube.com/@LuckyLegend77
 * Spotify: https://open.spotify.com/artist/0Q2AuIt3kua010pwvHWChO
 * DEX Screener: https://dexscreener.com/solana/h2zmzdvwp1gwh9xf4lrm1bu4xg96sgkwjff5ntiusdhf
-* DEXTools: https://www.dextools.io/app/en/solana/pair-explorer/H2zmzdvwp1gwh9xf4lrm1bu4xg96sgkwjff5ntiusdhf
+* DEXTools:* DEXTools: https://www.dextools.io/app/token/luckylegend
 * Orca Pool: https://www.orca.so/pools/5gkqYRswZXoA4aUotCHEoKarArkaoTky3XzKc647G4J5
