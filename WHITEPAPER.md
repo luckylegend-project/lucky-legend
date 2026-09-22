@@ -50,6 +50,10 @@ The project values authenticity over attention and continuity over visibility.
 
 Its public communication often focuses on nature, reflection, time, and the small moments that people tend to overlook.
 
+Lucky Legend also exists as music and film.
+This is part of the same identity.
+It is not a token utility, a reward system, or a financial feature.
+
 ---
 
 ## 4. Token Overview
@@ -59,6 +63,7 @@ Its public communication often focuses on nature, reflection, time, and the smal
 * **Blockchain:** Solana
 * **Token Standard:** SPL
 * **Launch Platform:** Pump.fun
+* **Contract Address:** `64MWN63e19qaw2HEecX6btUJSSbWwZgrw74bjFVVpump`
 
 Lucky Legend operates as a standard Solana token.
 
@@ -72,6 +77,7 @@ There are no staking systems, reward mechanisms, yield programs, or hidden token
 * **Circulating Supply:** Adjusted through burns
 * **Mint Authority:** Revoked
 * **Freeze Authority:** None
+* **Liquidity:** Provided by the project, locked, and publicly verifiable on-chain
 
 The project maintains a simple token structure without complex mechanics.
 
@@ -85,9 +91,10 @@ Transparency is a core principle of Lucky Legend.
 
 A portion of the supply is held by the creator wallet.
 
-Liquidity has been publicly provided and remains visible on-chain.
+Liquidity has been publicly provided by the project.
+It is locked and remains visible on-chain.
 
-Token balances, transactions, liquidity positions, and burns can be independently verified through public Solana tools and explorers.
+Token balances, transactions, liquidity positions, burns, and lock status can be independently verified through public Solana tools and explorers.
 
 ---
 
@@ -111,8 +118,22 @@ The project consists of:
 * the official website
 * public documentation
 * public communication channels
+* music and film published under the same name
 
 There are no hidden layers, private utility systems, or undisclosed project components.
+
+Official public references include:
+
+* Website: https://luckylegend.io
+* X: https://x.com/luckylegend77
+* Telegram: https://t.me/luckylegend777
+* YouTube: https://www.youtube.com/@LuckyLegend77
+* Spotify: https://open.spotify.com/artist/0Q2AuIt3kua010pwvHWChO
+* GitHub: https://github.com/luckylegend-project/lucky-legend
+* Solscan: https://solscan.io/token/64MWN63e19qaw2HEecX6btUJSSbWwZgrw74bjFVVpump
+* DEX Screener: https://dexscreener.com/solana/h2zmzdvwp1gwh9xf4lrm1bu4xg96sgkwjff5ntiusdhf
+* DEXTools: https://www.dextools.io/app/en/solana/pair-explorer/H2zmzdvwp1gwh9xf4lrm1bu4xg96sgkwjff5ntiusdhf
+* Orca Pool: https://dexscreener.com/solana/5gkqyrswzxoa4auotcheokararkaotky3xzkc647g4j5
 
 ---
 
