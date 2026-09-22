@@ -31,6 +31,7 @@ Progress is measured through consistency over time, not speed.
 * Whitepaper publication
 * On-chain verification
 * Public token information
+* Liquidity provided by the project and locked on-chain
 
 ---
 
@@ -42,6 +43,7 @@ Progress is measured through consistency over time, not speed.
 * Consistent communication
 * Development of a recognizable project identity
 * Long term public presence
+* Music and film published under the same name
 
 ---
 
@@ -79,3 +81,6 @@ Progress is measured through consistency over time, not speed.
 Lucky Legend is not designed to rush from one phase to the next.
 
 Its purpose is to remain present, visible, and consistent over time.
+
+Music and film belong to the same identity.
+They are not a token utility and do not change the nature of the project.
