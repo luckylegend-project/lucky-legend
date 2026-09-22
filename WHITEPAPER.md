@@ -133,7 +133,7 @@ Official public references include:
 * Solscan: https://solscan.io/token/64MWN63e19qaw2HEecX6btUJSSbWwZgrw74bjFVVpump
 * DEX Screener: https://dexscreener.com/solana/h2zmzdvwp1gwh9xf4lrm1bu4xg96sgkwjff5ntiusdhf
 * DEXTools: https://www.dextools.io/app/token/luckylegend
-* Orca Pool: https://www.orca.so/pools/5gkqYRswZXoA4aUotCHEoKarArkaoTky3XzKc647G4J54j5
+* Orca Pool: https://www.orca.so/pools?tokens=64MWN63e19qaw2HEecX6btUJSSbWwZgrw74bjFVVpump
 
 ---
 
