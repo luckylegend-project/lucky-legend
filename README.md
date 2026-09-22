@@ -13,7 +13,7 @@ This repository documents the public structure, principles, and transparency of 
 
 ---
 
-## 🔹 Project Overview
+## Project Overview
 
 * **Name:** Lucky Legend
 * **Symbol:** LLD
@@ -32,13 +32,14 @@ All core information is publicly available and verifiable.
 
 ---
 
-## 🔥 Token Transparency
+## Token Transparency
 
 Lucky Legend maintains transparency through on-chain verification.
 
 * **Mint Authority:** Revoked
 * **Freeze Authority:** None
 * **Supply Adjustments:** Visible through on-chain burns
+* **Liquidity:** Provided by the project, locked, and publicly verifiable on-chain
 
 Burns are executed using public Solana tools and remain fully verifiable on-chain.
 
@@ -46,11 +47,12 @@ All burned tokens are permanently removed from circulation.
 
 ---
 
-## 🔍 Transparency
+## Transparency
 
 A portion of the total supply is held by the creator wallet.
 
-Liquidity has been publicly provided by the project and remains fully visible on-chain.
+Liquidity has been publicly provided by the project.
+It is locked and remains fully visible on-chain.
 
 All balances, holdings, liquidity positions, and transactions can be independently verified through Solana explorers and public liquidity platforms.
 
@@ -58,7 +60,7 @@ The project operates with a commitment to transparency and long term consistency
 
 ---
 
-## 📊 Token Information
+## Token Information
 
 * **Total Supply:** Fixed
 * **Circulating Supply:** Adjusted through burns
@@ -70,7 +72,19 @@ All token data, holders, and transactions can be independently verified on-chain
 
 ---
 
-## 🗺️ Roadmap
+## Presence
+
+Lucky Legend also exists as music and film.
+
+This is part of the same project identity.
+It is not a utility, a reward system, or a financial feature.
+
+* Spotify: https://open.spotify.com/artist/0Q2AuIt3kua010pwvHWChO
+* YouTube: https://www.youtube.com/@LuckyLegend77
+
+---
+
+## Roadmap
 
 The Lucky Legend roadmap focuses on continuity, transparency, and long term presence.
 
@@ -84,38 +98,22 @@ The project is intentionally minimal and develops at its own pace.
 
 ---
 
-## 📄 Documentation
+## Documentation
 
-* 📘 Whitepaper: ./WHITEPAPER.md
-* 🗺️ Roadmap: ./ROADMAP.md
+* Whitepaper: ./WHITEPAPER.md
+* Roadmap: ./ROADMAP.md
 
 All documentation is publicly accessible.
 
 ---
 
-## 🌐 Official Links
+## Official Links
 
 * Website: https://luckylegend.io
 * X (Twitter): https://x.com/luckylegend77
 * Telegram: https://t.me/luckylegend777
+* YouTube: https://www.youtube.com/@LuckyLegend77
+* Spotify: https://open.spotify.com/artist/0Q2AuIt3kua010pwvHWChO
 * DEX Screener: https://dexscreener.com/solana/h2zmzdvwp1gwh9xf4lrm1bu4xg96sgkwjff5ntiusdhf
-* Orca Pool: https://dexscreener.com/solana/5gkqyrswzxoa4auotcheokararkaotky3xzkc647g4j5
-* Solscan: https://solscan.io/token/64MWN63e19qaw2HEecX6btUJSSbWwZgrw74bjFVVpump
-
----
-
-## ⚠️ Disclaimer
-
-Lucky Legend (LLD) is an independent digital project on the Solana blockchain.
-
-It is not a financial instrument, investment product, or security and does not provide guarantees of returns, profits, or future performance.
-
-This repository is provided for informational and transparency purposes only.
-
-Always conduct your own research before interacting with any blockchain based asset.
-
-Lucky Legend operates independently and is not affiliated with any third party platforms.
-
-Verified project information and official links are published through:
-
-https://luckylegend.io
+* DEXTools: https://www.dextools.io/app/en/solana/pair-explorer/H2zmzdvwp1gwh9xf4lrm1bu4xg96sgkwjff5ntiusdhf
+* Orca Pool: https://dexscreener.com/solana/5gkqyrswzxoa4
