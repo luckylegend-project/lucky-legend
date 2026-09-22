@@ -132,8 +132,8 @@ Official public references include:
 * GitHub: https://github.com/luckylegend-project/lucky-legend
 * Solscan: https://solscan.io/token/64MWN63e19qaw2HEecX6btUJSSbWwZgrw74bjFVVpump
 * DEX Screener: https://dexscreener.com/solana/h2zmzdvwp1gwh9xf4lrm1bu4xg96sgkwjff5ntiusdhf
-* DEXTools: https://www.dextools.io/app/en/solana/pair-explorer/H2zmzdvwp1gwh9xf4lrm1bu4xg96sgkwjff5ntiusdhf
-* Orca Pool: https://dexscreener.com/solana/5gkqyrswzxoa4auotcheokararkaotky3xzkc647g4j5
+* DEXTools: https://www.dextools.io/app/token/luckylegend
+* Orca Pool: https://www.orca.so/pools/5gkqYRswZXoA4aUotCHEoKarArkaoTky3XzKc647G4J54j5
 
 ---
 
